@@ -51,14 +51,6 @@ Me chamo Lucas, tenho quase 20 anos e sou natural do Paraná. Atualmente curso A
 />
 <img 
     align="left" 
-    alt="NestJS"
-    title="NestJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
