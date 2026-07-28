@@ -128,12 +128,3 @@ Me chamo Lucas, tenho quase 20 anos e sou natural do Paraná. Atualmente curso A
   />
 
 </p>
-
----
-
-<p align="center">
-  <img 
-    alt="snake animation" 
-    src="https://raw.githubusercontent.com/lucasboeck06/lucasboeck06/output/github-contribution-grid-snake-dark.svg?v=2"
-  />
-</p>
