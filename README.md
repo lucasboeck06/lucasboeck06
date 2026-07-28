@@ -59,6 +59,14 @@ Me chamo Lucas, tenho quase 20 anos e sou natural do Paraná. Atualmente curso A
 />
 <img 
     align="left" 
+    alt="Fastify"
+    title="Fastify" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
@@ -135,4 +143,13 @@ Me chamo Lucas, tenho quase 20 anos e sou natural do Paraná. Atualmente curso A
       src="https://github-readme-stats-pied-eight-82.vercel.app/api/top-langs/?username=lucasboeck06&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
+
+---
+
+<p align="center">
+  <img 
+    alt="snake animation" 
+    src="https://raw.githubusercontent.com/lucasboeck06/lucasboeck06/output/github-contribution-grid-snake-dark.svg?v=2"
+  />
 </p>
