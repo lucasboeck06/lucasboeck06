@@ -2,7 +2,15 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Lucas, tenho quase 20 anos e sou natural do Paraná. Atualmente curso Análise e Desenvolvimento de Sistemas (TADS) na UFPR, em Curitiba. Trabalho como desenvolvedor backend, com foco em Node.js, PostgreSQL e APIs REST, e também já atuei profissionalmente com Go. Estou sempre estudando algoritmos, estrutura de dados e boas práticas para evoluir como desenvolvedor.
+Fala, me chamo Lucas 👋
+
+Dev backend em Curitiba. Hoje trabalho na Alexandria construindo e dando manutenção no sistema de gestão operacional completo, pro setor de energia solar (futura fintech): APIs em Node.js/NestJS, PostgreSQL com Drizzle e um serviço de extração de dados de faturas em PDF. Também já trabalhei profissionalmente com Go para análise de dados.
+
+Agora tô me aprofundando em DDD, TDD e arquitetura de monolito modular.
+
+Fora do trampo, tô levando tecnologia pra uma distribuidora de pescados (site institucional e sistema de pedidos completo) e desenvolvendo projetos pessoais com Fastify/NestJS e React.
+
+Cursando Análise e Desenvolvimento de Sistemas na UFPR.
 
 <p align="left">
     <a href="https://github.com/lucasboeck06?tab=repositories&sort=stargazers">
@@ -27,14 +35,6 @@ Me chamo Lucas, tenho quase 20 anos e sou natural do Paraná. Atualmente curso A
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -51,11 +51,27 @@ Me chamo Lucas, tenho quase 20 anos e sou natural do Paraná. Atualmente curso A
 />
 <img 
     align="left" 
+    alt="NestJS"
+    title="NestJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Fastify"
+    title="Fastify" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
 />
 <img 
     align="left" 
@@ -72,14 +88,6 @@ Me chamo Lucas, tenho quase 20 anos e sou natural do Paraná. Atualmente curso A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
